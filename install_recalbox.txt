@@ -1,0 +1,4 @@
+Instructions pour installer Recalbox :
+1. Télécharger Recalbox depuis https://www.recalbox.com/
+2. Utiliser Balena Etcher ou Raspberry Pi Imager pour flasher l'image sur un disque dur externe.
+3. Connecter le disque au Raspberry Pi, puis démarrer.

@@ -1,0 +1,5 @@
+Notes de configuration MDT :
+- Installer MDT + ADK
+- Créer une Task Sequence
+- Ajouter des Applications et Drivers
+- Déployer via PXE ou USB

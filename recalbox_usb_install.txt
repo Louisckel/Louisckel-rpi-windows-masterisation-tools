@@ -1,0 +1,5 @@
+1. Télécharger l'image Recalbox sur https://www.recalbox.com/fr/download/
+2. Formater le disque dur externe en FAT32 ou exFAT.
+3. Extraire les fichiers de l'image vers le disque dur.
+4. Brancher le disque sur le Raspberry Pi et démarrer.
+5. Suivre les instructions à l’écran.
